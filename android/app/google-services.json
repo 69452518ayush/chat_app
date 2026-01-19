@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "307477032334",
+    "project_id": "linkly-57e90",
+    "storage_bucket": "linkly-57e90.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307477032334:android:6eabc329aa835b5ffcc8df",
+        "android_client_info": {
+          "package_name": "com.example.linkly"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARu7VGSC1dkB7ShVBzIbK4CFTXgzsXEvA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
