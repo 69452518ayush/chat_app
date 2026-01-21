@@ -8,7 +8,7 @@ class CustomButton extends StatelessWidget {
     super.key,
     this.onPressed,
     required this.text,
-    required this.loading,
+     this.loading = false
   });
   final void Function()? onPressed;
   final String text;
@@ -30,3 +30,4 @@ class CustomButton extends StatelessWidget {
     );
   }
 }
+
